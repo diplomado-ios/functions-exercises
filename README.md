@@ -9,6 +9,7 @@ For example, if the name is Alois Rumpelstiltskin Chaz, the function should prin
 
 > [!NOTE]  
 > You can use `"Some string".first` to get the first character of a string.
+> You can use `"Some string".count` to get the number of characters of a string.
 
 ## Second Challenge
 Write a function called `siftBeans(fromGroceryList:)` that takes a grocery list (as an array of strings) and “sifts out” the beans from the other groceries. 
